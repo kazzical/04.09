@@ -2,3 +2,23 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.manhattan{
+  border: #d98291 4px dotted;
+}
+
+.queens{
+  border: #2e2386 4px solid;
+}
+
+.staten_island{
+  border: #2695ba 4px ridge;
+}
+
+.bronx{
+  border: #6fbd0f 4px groove;
+}
+
+.brooklyn{
+  border: #9c5c02 4px double;
+}
